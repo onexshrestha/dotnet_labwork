@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\onex\\lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E23B925C-D88C-4A82-9B63-AAE92494C76A}|lab1.csproj|c:\\onex\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23B925C-D88C-4A82-9B63-AAE92494C76A}|lab1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23B925C-D88C-4A82-9B63-AAE92494C76A}|lab1.csproj|C:\\onex\\lab1\\io.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23B925C-D88C-4A82-9B63-AAE92494C76A}|lab1.csproj|solutionrelative:io.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23B925C-D88C-4A82-9B63-AAE92494C76A}|lab1.csproj|C:\\onex\\lab1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23B925C-D88C-4A82-9B63-AAE92494C76A}|lab1.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IO.cs",
+              "DocumentMoniker": "C:\\onex\\lab1\\IO.cs",
+              "RelativeDocumentMoniker": "IO.cs",
+              "ToolTip": "C:\\onex\\lab1\\IO.cs",
+              "RelativeToolTip": "IO.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T11:55:00.384Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "student.cs",
+              "DocumentMoniker": "C:\\onex\\lab1\\student.cs",
+              "RelativeDocumentMoniker": "student.cs",
+              "ToolTip": "C:\\onex\\lab1\\student.cs",
+              "RelativeToolTip": "student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T12:02:28.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\onex\\lab1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\onex\\lab1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T09:59:16.011Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
